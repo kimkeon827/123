@@ -1249,7 +1249,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: idle_normal
+  m_Name: Idle
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -1680,7 +1680,7 @@ AnimatorStateMachine:
     m_Position: {x: 168, y: 12, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 110242334}
-    m_Position: {x: 168, y: -72, z: 0}
+    m_Position: {x: 160, y: -80, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 110242336}
     m_Position: {x: 168, y: -168, z: 0}
