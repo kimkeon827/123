@@ -17,5 +17,5 @@ MonoBehaviour:
   _tooltip: "\uD22C\uCC99\uD558\uC5EC \uBAAC\uC2A4\uD130\uC5D0\uAC8C \uD53C\uD574\uB97C
     \uC8FC\uB294 \uC544\uC774\uD15C"
   _iconSprite: {fileID: 21300000, guid: 45d8334376e3ebc42b7f1c93a0794240, type: 3}
-  _dropItemPrefab: {fileID: 0}
+  _dropItemPrefab: {fileID: 1274293950393787109, guid: 51bc2b6a8a73bce4e81c750bd8093682, type: 3}
   _maxAmount: 99

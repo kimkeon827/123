@@ -17,6 +17,6 @@ MonoBehaviour:
   _tooltip: "\uCE90\uB9AD\uD130\uAC00 \uC0AC\uC6A9\uD558\uC5EC \uB2A5\uB825\uCE58\uB97C
     \n\uC77C\uC815 \uC2DC\uAC04\uB3D9\uC548 \uC99D\uAC00\uD558\uB294 \uC544\uC774\uD15C"
   _iconSprite: {fileID: 21300000, guid: 6592b916f86b19e428db6f6847c7b6dd, type: 3}
-  _dropItemPrefab: {fileID: 0}
+  _dropItemPrefab: {fileID: 497884361362942197, guid: dfbac804a6ebe1a4ba1ee283d35e1c3a, type: 3}
   _maxAmount: 99
   _value: 0
