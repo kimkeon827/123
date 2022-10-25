@@ -4,15 +4,15 @@ using UnityEngine;
 
 public class AttackItem : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    float power = 0.0f;
+    float range = 0.0f;
+    private bool isAimming;
 
-    // Update is called once per frame
-    void Update()
+    void Aim()
     {
-        
+        if(!isAimming)
+            return;
+
+        Debug.DrawRay(transform.position, Vector3.forward * 1000f, Color.red); ;
     }
 }
