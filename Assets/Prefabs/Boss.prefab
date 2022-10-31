@@ -31515,6 +31515,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waypoints: {fileID: 0}
   moveSpeed: 3
+  sightRange: 50
+  sightHalfAngle: 50
   waitTime: 2
 --- !u!1 &3522640620100020635
 GameObject:

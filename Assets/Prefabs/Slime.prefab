@@ -336,6 +336,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waypoints: {fileID: 0}
   moveSpeed: 3
+  sightRange: 20
+  sightHalfAngle: 50
   waitTime: 2
 --- !u!54 &1226830335
 Rigidbody:

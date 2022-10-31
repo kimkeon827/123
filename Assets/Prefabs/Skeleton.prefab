@@ -264,6 +264,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waypoints: {fileID: 0}
   moveSpeed: 2
+  sightRange: 25
+  sightHalfAngle: 50
   waitTime: 2
 --- !u!195 &-6921697995251927645
 NavMeshAgent:
