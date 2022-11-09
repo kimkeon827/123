@@ -2,9 +2,20 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class Item
+/// <summary>
+/// 아이템 1개를 표현할 클래스
+/// </summary>
+public class Item : MonoBehaviour
 {
-    public ItemData Data { get; private set; }
+    public ItemData data;   // 아이템의 정보
 
-    public Item(ItemData data) => Data = data;
+    public Item(CountableItemData data)
+    {
+        this.data = data;
+    }
+
+    private void Start()
+    {
+        Instantiate(data._dropItemPrefab, transform.position, transform.rotation, transform);   // 아이템의 외형 추가
+    }
 }
