@@ -56,136 +56,136 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\WheelEffects.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\CarSelfRighting.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
     <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\Mudguard.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\2D\Scripts\Camera2DFollow.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Scripts\SpecularLighting.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\ParticleSystemMultiplier.cs" />
+    <Compile Include="Assets\_ExternalAssets\Boss\Environment\Scripts\MoveCTRLDemo.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Cameras\Scripts\AutoCam.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Cameras\Scripts\TargetFieldOfView.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\AfterburnerPhysicsForce.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Cameras\Scripts\LookatTarget.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\ExtinguishableParticleSystem.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Cameras\Scripts\ProtectCameraFromWallClip.cs" />
+    <Compile Include="Assets\_ExternalAssets\SampleScenes\Scripts\CameraSwitch.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Scripts\Displace.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
+    <Compile Include="Assets\_ExternalAssets\Golem\Scripts\AnimationButton.cs" />
     <Compile Include="Assets\_ExternalAssets\Boss\Environment\Scripts\CamCTRLDemo.cs" />
     <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
-    <Compile Include="Assets\_ExternalAssets\SampleScenes\Scripts\SlowMoButton.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Cameras\Scripts\ProtectCameraFromWallClip.cs" />
-    <Compile Include="Assets\_ExternalAssets\SampleScenes\Scripts\LevelReset.cs" />
-    <Compile Include="Assets\_ExternalAssets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Scripts\Displace.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Cameras\Scripts\HandHeldCam.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplanePropellerAnimator.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Cameras\Scripts\FreeLookCam.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\AfterburnerPhysicsForce.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneController.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\ExplosionPhysicsForce.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Scripts\PlanarReflection.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\BrakeLight.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\Scripts\JetParticleEffect.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water (Basic)\Scripts\WaterBasic.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\SmokeParticles.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Cameras\Scripts\AutoCam.cs" />
     <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\CarAIControl.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneUserControl4Axis.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\SkidTrail.cs" />
-    <Compile Include="Assets\_ExternalAssets\SampleScenes\Scripts\CameraSwitch.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\ParticleSystemMultiplier.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Scripts\Water.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Scripts\MeshContainer.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\Hose.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\2D\Scripts\Platformer2DUserControl.cs" />
+    <Compile Include="Assets\Scripts\Character\Enemy\Enemy.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" />
     <Compile Include="Assets\_ExternalAssets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\2D\Scripts\Camera2DFollow.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\CarAudio.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\SkidTrail.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\ExplosionPhysicsForce.cs" />
+    <Compile Include="Assets\_ExternalAssets\SampleScenes\Scripts\SlowMoButton.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\Scripts\JetParticleEffect.cs" />
     <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneControlSurfaceAnimator.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\FireLight.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water (Basic)\Scripts\WaterBasic.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\CarUserControl.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\2D\Scripts\Restarter.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Scripts\PlanarReflection.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\TiltInput.cs" />
+    <Compile Include="Assets\Scripts\Character\Enemy\Waypoints.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneAiControl.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Cameras\Scripts\FreeLookCam.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\CarController.cs" />
+    <Compile Include="Assets\_ExternalAssets\SampleScenes\Scripts\ParticleSceneControls.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneController.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Cameras\Scripts\AbstractTargetFollower.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\CarSelfRighting.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\Scripts\LandingGear.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneUserControl4Axis.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\WheelEffects.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
+    <Compile Include="Assets\_ExternalAssets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\WaterHoseParticles.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\BrakeLight.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneUserControl2Axis.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Cameras\Scripts\HandHeldCam.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Scripts\WaterBase.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\SmokeParticles.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\Suspension.cs" />
+    <Compile Include="Assets\Team\VarcanRex\LongSword\Scripts\SimpleRotate.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\ExplosionFireAndDebris.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplanePropellerAnimator.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
     <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Scripts\GerstnerDisplace.cs" />
     <Compile Include="Assets\_ExternalAssets\Standard Assets\Cameras\Scripts\PivotBasedCameraRig.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
-    <Compile Include="Assets\Team\VarcanRex\LongSword\Scripts\SimpleRotate.cs" />
-    <Compile Include="Assets\_ExternalAssets\Boss\Environment\Scripts\MoveCTRLDemo.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\CarAudio.cs" />
-    <Compile Include="Assets\Scripts\Character\Enemy\Waypoints.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
-    <Compile Include="Assets\_ExternalAssets\SampleScenes\Scripts\ParticleSceneControls.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Cameras\Scripts\TargetFieldOfView.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\ExplosionFireAndDebris.cs" />
-    <Compile Include="Assets\_ExternalAssets\Golem\Scripts\CharacterRotator.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\Suspension.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Cameras\Scripts\AbstractTargetFollower.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\CarController.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneUserControl2Axis.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Scripts\WaterTile.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Scripts\SpecularLighting.cs" />
-    <Compile Include="Assets\_ExternalAssets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\2D\Scripts\Platformer2DUserControl.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
     <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneAudio.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\FireLight.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Scripts\WaterBase.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Scripts\MeshContainer.cs" />
-    <Compile Include="Assets\_ExternalAssets\Golem\Scripts\AnimationButton.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneAiControl.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\ExtinguishableParticleSystem.cs" />
-    <Compile Include="Assets\_ExternalAssets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\Scripts\LandingGear.cs" />
-    <Compile Include="Assets\Scripts\Character\Enemy\Enemy.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\2D\Scripts\Restarter.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\2D\Scripts\CameraFollow.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\WaterHoseParticles.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Scripts\CarUserControl.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
+    <Compile Include="Assets\_ExternalAssets\Golem\Scripts\CharacterRotator.cs" />
     <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Scripts\Water.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\Cameras\Scripts\LookatTarget.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
-    <Compile Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Scripts\Hose.cs" />
+    <Compile Include="Assets\_ExternalAssets\SampleScenes\Scripts\LevelReset.cs" />
+    <Compile Include="Assets\_ExternalAssets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
+    <Compile Include="Assets\_ExternalAssets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
+    <Compile Include="Assets\_ExternalAssets\Standard Assets\2D\Scripts\CameraFollow.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\_ExternalAssets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
-    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\Projectors\Guidelines.txt" />
-    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
-    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_Sprite.shader" />
-    <None Include="Assets\Team\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
-    <None Include="Assets\_ExternalAssets\SampleScenes\Shaders\Skybox-Procedural.shader" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\CarGuidelines.txt" />
-    <None Include="Assets\Team\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\AircraftGuidelines.txt" />
-    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Cameras\CameraGuidelines.txt" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
-    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
-    <None Include="Assets\Team\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
-    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
-    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
-    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
-    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
-    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\_ExternalAssets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
-    <None Include="Assets\Team\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
-    <None Include="Assets\Team\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
-    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\ImageEffects\Readme.txt" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
-    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
+    <None Include="Assets\Team\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\_ExternalAssets\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
-    <None Include="Assets\_ExternalAssets\Boss\READ ME(wizard)\character setup guide link.txt" />
-    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF.shader" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
-    <None Include="Assets\Team\TextMesh Pro\Shaders\TMPro.cginc" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
-    <None Include="Assets\Team\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\Team\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
-    <None Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
     <None Include="Assets\_ExternalAssets\Standard Assets\Fonts\OpenSans\License!.txt" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
+    <None Include="Assets\Team\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
+    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
+    <None Include="Assets\Team\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\ImageEffects\Readme.txt" />
+    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Cameras\CameraGuidelines.txt" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
+    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
+    <None Include="Assets\_ExternalAssets\SampleScenes\Shaders\Skybox-Procedural.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
+    <None Include="Assets\Team\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
+    <None Include="Assets\Team\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
+    <None Include="Assets\_ExternalAssets\Boss\READ ME(wizard)\character setup guide link.txt" />
+    <None Include="Assets\Team\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
+    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Aircraft\AircraftGuidelines.txt" />
+    <None Include="Assets\Team\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\Projectors\Guidelines.txt" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
+    <None Include="Assets\Team\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\_ExternalAssets\Standard Assets\Vehicles\Car\CarGuidelines.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -433,9 +433,6 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.7.6\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="ReportGeneratorMerged">
-      <HintPath>Library\PackageCache\com.unity.testtools.codecoverage@1.0.1\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.1f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>
@@ -809,23 +806,17 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.VisualScripting.Shared.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
-    </Reference>
-    <Reference Include="Autodesk.Fbx.Editor">
-      <HintPath>Library\ScriptAssemblies\Autodesk.Fbx.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Formats.Fbx.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Formats.Fbx.Editor.dll</HintPath>
+    <Reference Include="Unity.Timeline.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
@@ -842,17 +833,8 @@
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.ProBuilder.AddOns.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder">
-      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll</HintPath>
+    <Reference Include="Unity.VisualScripting.Flow">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
@@ -863,50 +845,14 @@
     <Reference Include="Unity.Rider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Autodesk.Fbx">
-      <HintPath>Library\ScriptAssemblies\Autodesk.Fbx.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Flow">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Polybrush.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Polybrush.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Polybrush">
-      <HintPath>Library\ScriptAssemblies\Unity.Polybrush.dll</HintPath>
+    <Reference Include="Unity.VisualScripting.State">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.EditorCoroutines.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TerrainTools">
-      <HintPath>Library\ScriptAssemblies\Unity.TerrainTools.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Shared.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TerrainTools.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.TerrainTools.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Formats.Fbx.Runtime">
-      <HintPath>Library\ScriptAssemblies\Unity.Formats.Fbx.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.State">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
